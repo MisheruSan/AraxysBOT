@@ -12,7 +12,7 @@ Je vous propose un BOT polyvalent qui permettra énormement de choses:
 - Musique
 - Modération
 - Mini-jeux
-- Stastique du serveur
+- Statistique du serveur
 - Outils de ticketing
 - Réaction rôle
 - Automatisation
@@ -30,7 +30,7 @@ I offer you a versatile BOT that will allow you to do a lot of things:
 - Music system
 - Moderation
 - Minigames
-- Server stastics
+- Server statistics
 - Ticketing tools
 - Role reaction
 - Automation
