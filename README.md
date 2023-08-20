@@ -2,7 +2,7 @@
 By French Dev
 
 
-# Français
+# Français 🇫🇷
 
 Bonjour,
 Je vous propose un BOT polyvalent qui permettra énormement de choses:
@@ -20,7 +20,7 @@ Je vous propose un BOT polyvalent qui permettra énormement de choses:
 Et pleins d'autres choses encore
 
 
-# English
+# English 🇺🇸
 
 Hello,
 I offer you a versatile BOT that will allow you to do a lot of things:
